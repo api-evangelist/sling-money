@@ -1,0 +1,32 @@
+generated: '2026-07-21'
+method: searched
+source: >-
+  Searched from morsemoney.com/legal/regulatory-compliance and the RFC 9116
+  security.txt. Sling Money / Morse publishes no OpenAPI, so no spec-derived
+  API standards are asserted; this file captures the published organizational /
+  regulatory / information-security standards.
+standards:
+  - id: iso-27001-2022
+    conforms: true
+    evidence: >-
+      Avian Labs Inc. and group entities are ISO/IEC 27001:2022 certified,
+      certificate IA-2024-07-30-01 (since 2024-07-30).
+  - id: mica-casp
+    conforms: true
+    evidence: >-
+      Avian Labs Netherlands B.V. is authorized as a Crypto-Asset Service
+      Provider under MiCAR by the AFM (registration 41000005).
+  - id: fincen-msb
+    conforms: true
+    evidence: >-
+      Avian Labs, Inc. is a FinCEN-registered US Money Services Business
+      (registration 31000327638265).
+  - id: rfc9116-security-txt
+    conforms: true
+    evidence: /.well-known/security.txt published on morsemoney.com.
+  - id: oauth2
+    conforms: false
+    evidence: No public OAuth surface; no OpenAPI declares oauth2 securitySchemes.
+  - id: oidc
+    conforms: false
+    evidence: No /.well-known/openid-configuration on morsemoney.com (404).

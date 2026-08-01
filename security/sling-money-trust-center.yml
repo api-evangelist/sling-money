@@ -1,0 +1,24 @@
+generated: '2026-07-21'
+method: searched
+probe: false
+source: https://morsemoney.com/legal/regulatory-compliance
+url: https://morsemoney.com/legal/regulatory-compliance
+description: >-
+  Avian Labs (Morse, formerly Sling Money) publishes its regulatory and
+  information-security posture on its legal/regulatory-compliance page rather
+  than a trust.<domain> subdomain, so the automated trust-center probe did not
+  record it — this is the searched, human-verified fill. Avian Labs group is
+  ISO/IEC 27001:2022 certified and operates as a regulated crypto-asset and
+  money-services provider across the EU and US.
+certifications:
+  - {name: ISO/IEC 27001:2022, scope: Avian Labs Inc. and group entities, certificate: IA-2024-07-30-01, since: '2024-07-30'}
+authorizations:
+  - {name: MiCAR CASP authorization, regulator: AFM (Dutch Authority for Financial Markets), entity: Avian Labs Netherlands B.V., registration: '41000005', company_number: '91273323'}
+  - {name: Money Services Business (MSB) registration, regulator: FinCEN (US Treasury), entity: Avian Labs, Inc. (Delaware), registration: '31000327638265'}
+  - {name: State money-transmission licensing, regulator: NMLS (Nationwide Multistate Licensing System), entity: Avian Labs USA, Inc., nmls_id: '2639252'}
+partners:
+  - {name: Lead Bank, role: card issuer (Visa-licensed)}
+  - {name: Bridge Ventures LLC, role: program manager (non-bank fintech)}
+docs:
+  - https://morsemoney.com/legal/regulatory-compliance
+  - https://morsemoney.com/disclosures

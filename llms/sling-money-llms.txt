@@ -1,0 +1,19 @@
+# Morse
+
+> Morse (morsemoney.com) is a money transfer app for sending money internationally. Fast, low-fee transfers to 150+ countries.
+
+## Key pages
+
+- https://morsemoney.com/
+- https://morsemoney.com/fees
+- https://morsemoney.com/countries
+- https://morsemoney.com/download
+- https://morsemoney.com/product/morse-card
+- https://morsemoney.com/press
+- https://morsemoney.com/careers
+- https://morsemoney.com/exchanges
+- https://morsemoney.com/legal
+
+## Locales
+
+The site is available in 10 languages

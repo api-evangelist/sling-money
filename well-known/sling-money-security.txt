@@ -1,0 +1,5 @@
+# Security policy for morsemoney.com
+# https://securitytxt.org/
+
+Contact: mailto:security@morsemoney.com
+Preferred-Languages: en
