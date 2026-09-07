@@ -106,3 +106,5 @@ common:
   url: security/sling-money-trust-center.yml
 - type: Conformance
   url: conformance/sling-money-conformance.yml
+x-parent: sling
+x-relationship: product
